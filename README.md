@@ -168,7 +168,3 @@ Enjoy!
 [11]: http://symfony.com/doc/2.5/cookbook/logging/monolog.html
 [12]: http://symfony.com/doc/2.5/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.5/bundles/SensioGeneratorBundle/index.html
-=======
-live-chat
-=========
->>>>>>> 005e09e417d62c1e2112cbbe79a6a16e4c13f8b6
