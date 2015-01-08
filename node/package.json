@@ -1,0 +1,8 @@
+{
+    "name": "Live Chat",
+    "version": "0.0.1",
+    "description": "Live Chat App",
+    "dependencies": {
+        "socket.io": "*"
+    }
+}
